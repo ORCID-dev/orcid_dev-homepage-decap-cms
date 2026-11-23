@@ -1,0 +1,23 @@
+{
+  "version": "v0.0.1",
+  "commit": "2d2d8c1",
+  "generatedAt": "2026-11-23T12:48:47.032Z",
+  "schemaVersion": 2,
+  "locales": [
+    "en",
+    "ar",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "ja",
+    "ko",
+    "pl",
+    "pt",
+    "ru",
+    "tr",
+    "zh-CN",
+    "zh-TW"
+  ]
+}
