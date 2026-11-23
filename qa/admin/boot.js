@@ -15,8 +15,8 @@
  * request, and a maintainer merges it. Authentication and review are GitHub's,
  * and this page stays a plain static file with nothing to leak.
  */
-import { apply, diff } from './merge-patch.js?v=qa-2d2d8c1'
-import { registerPreview } from './preview.js?v=qa-2d2d8c1'
+import { apply, diff } from './merge-patch.js?v=v0.0.1'
+import { registerPreview } from './preview.js?v=v0.0.1'
 
 const REPOSITORY = 'ORCID/orcid-homepage-decap-cms'
 const CONTENT_PATH = 'content/home.en.json'
